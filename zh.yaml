@@ -23,7 +23,7 @@ dns:
     - "*.msftncsi.com"
     - www.msftconnecttest.com
   default-nameserver:
-    - 119.29.29.29
+    - 119.29.29.56
     - 223.5.5.5
   nameserver:
     - 119.29.29.29
